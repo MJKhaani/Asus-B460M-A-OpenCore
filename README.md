@@ -15,9 +15,9 @@
 
 |   | F | P | N | Comment |
 | - | ----- | --------- | ----------- | ------- |
-| CPU Power Managment | ✅ | | | Using CPUFriend.kext + CPUFriendDataProvider.kext -> LMF 800MHz |
+| CPU Power Management | ✅ | | | Using CPUFriend.kext + CPUFriendDataProvider.kext -> LMF 800MHz |
 | USB Ports | ✅ | | | Using USBInjectAll.kext & building USBPort.kext using hackintool |
-| iPGU Accrelation | <div align=”center”>✅</p> | | | Using device-id 9B3E0000 & framebuffer port patching |
+| iGPU Acceleration | <div align=”center”>✅</p> | | | Using device-id 9B3E0000 & framebuffer port patching |
 | Dual Display | | ✅ | | Works if one of them is off during boot |
 | Sleep | ✅ | | | also working with dual display |
 | DRM | | | ✅ | DRM is broken for iGPU-only systems (need dGPU) |
