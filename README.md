@@ -6,7 +6,7 @@
 | Mainboard | Asus Prime B460M-A |
 | iGPU | Intel UHD 630 |
 | SSD | Adata SowrdFish 1TB NVMe |
-| HDD | WB 1TB Blue |
+| HDD | WD 1TB Blue |
 | Ethernet | RTL8111 |
 | Wifi & BT | BCM943602CS purchased but i need adapter to connect it |
 | Audio | ALC887 |
